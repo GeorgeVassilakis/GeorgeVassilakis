@@ -3,7 +3,7 @@
 My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at Northeastern University. I'm studying Applied Physics with a minor in Data Science and a concentration in Astrophysics. 
 
 ## 🔭 I love space and machine learning! 
-### My current projects include:
+### My current and past projects include:
 1. Lead developer of the [SMPy](https://github.com/GeorgeVassilakis/SMPy) project, which provides an accessible and modular Python toolkit for mapping dark matter distributions using weak gravitational lensing data from astronomical surveys.
 2. Contributing developer to the [superbit-metacal](https://github.com/superbit-collaboration/superbit-metacal) analysis pipeline, which aims to measure galaxy shapes from NASA's SuperBIT Telescope observations.
 3. Developed Scientific Machine Learning pipelines (coupled [Deep Operator Networks](https://www.nature.com/articles/s42256-021-00302-5)) to model the governing physics for solid-state batteries, as part of the [Juner Zhu Group](https://www.zhujuner.com/).

@@ -8,7 +8,7 @@ My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at 
 2. Contributing developer to the [superbit-metacal](https://github.com/superbit-collaboration/superbit-metacal) analysis pipeline, which aims to measure galaxy shapes from NASA's SuperBIT Telescope observations.
 3. Developed Scientific Machine Learning pipelines (coupled [Deep Operator Networks](https://www.nature.com/articles/s42256-021-00302-5)) to model the governing physics for solid-state batteries, as part of the [Juner Zhu Group](https://www.zhujuner.com/).
 
-## Publications | [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en)
+## Publications | <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
 
 ### First-author
 *Shear Mapping in Python (SMPy): Modular, Extensible, and Accessible Dark Matter Mapping.*  

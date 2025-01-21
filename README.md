@@ -42,7 +42,7 @@ Philippe Voyer, **et al.**
 2024, Proc. SPIE 13094, Ground-based and Airborne Telescopes X, 130944Z.
 
 ## Personal
-🏋️I'm a nationally qualified Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)!
+🏋️I'm a nationally qualified Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintain the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
 
 🎸 I've played both electric and acoustic (Flamenco) guitar for nearly 10 years!
 

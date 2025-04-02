@@ -13,7 +13,7 @@ My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at 
 ### First-author
 *Shear Mapping in Python (SMPy): Modular, Extensible, and Accessible Dark Matter Mapping.*  
 **Georgios N. Vassilakis**, Jacqueline E. McCleary, Maya Amit, Sayan Saha.  
-2025, Journal of Open Source Software (in preparation).  
+2025, Journal of Open Source Software (in preparation for resubmission).  
 
 ### Significant contributing author
 *Lensing in the Blue. II. Estimating the Sensitivity of Stratospheric Balloons to Weak Gravitational Lensing.*  

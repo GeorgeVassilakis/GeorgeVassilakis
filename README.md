@@ -8,6 +8,12 @@ My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at 
 2. Contributing developer to the [superbit-lensing](https://github.com/superbit-collaboration/superbit-lensing) analysis pipeline, which aims to measure galaxy shapes from NASA's SuperBIT Telescope observations.
 3. Developed Scientific Machine Learning pipelines (coupled [Deep Operator Networks](https://www.nature.com/articles/s42256-021-00302-5)) to model the governing physics for solid-state batteries, as part of the [Juner Zhu Group](https://www.zhujuner.com/).
 
+## Writing Samples
+This section showcases selected assignments from my advanced writing course. These include:
+1. A **literature review** discussing how machine learning is revolutionizing astronomy, specifically cosmology. It can be found at [this link](https://northeastern-my.sharepoint.com/:w:/g/personal/vassilakis_g_northeastern_edu/ERlyVw5lqRtChwMDprOe0jkBj1Znyxu7uUtJ4YcgyMl2Zw?e=Gr33iH).
+2. A fictional **public correspondence** with UC Berkeley Professor Uros Seljak. It can be found at [this link](https://northeastern-my.sharepoint.com/:w:/g/personal/vassilakis_g_northeastern_edu/ETYRpnX11jJFh8pljOA6Y3IBUaYMPn5ahlwTZZTaiY0T6g?e=XVfvfb).
+3. A **public writing** piece immitating The New York Times Opinion column discussing the state of NASA underfunding. It can be founda at [this link](https://georgevassilakis.github.io/advanced_writing/).
+
 ## Publications | <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
 
 ### First-author

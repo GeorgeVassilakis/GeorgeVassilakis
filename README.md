@@ -12,7 +12,7 @@ My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at 
 This section showcases selected assignments from my advanced writing course. These include:
 1. A **literature review** discussing how machine learning is revolutionizing astronomy, specifically cosmology. It can be found at [this link](https://northeastern-my.sharepoint.com/:w:/g/personal/vassilakis_g_northeastern_edu/ERlyVw5lqRtChwMDprOe0jkBj1Znyxu7uUtJ4YcgyMl2Zw?e=Gr33iH).
 2. A fictional **public correspondence** with UC Berkeley Professor Uros Seljak. It can be found at [this link](https://northeastern-my.sharepoint.com/:w:/g/personal/vassilakis_g_northeastern_edu/ETYRpnX11jJFh8pljOA6Y3IBUaYMPn5ahlwTZZTaiY0T6g?e=XVfvfb).
-3. A **public writing** piece immitating The New York Times Opinion column discussing the state of NASA underfunding. It can be founda at [this link](https://georgevassilakis.github.io/advanced_writing/).
+3. A **public writing** piece immitating The New York Times Opinion column discussing the state of NASA underfunding. It can be found at [this link](https://georgevassilakis.github.io/advanced_writing/).
 
 ## Publications | <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
 

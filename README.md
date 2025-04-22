@@ -13,7 +13,7 @@ My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at 
 ### First-author
 *Shear Mapping in Python (SMPy): Modular, Extensible, and Accessible Dark Matter Mapping.*  
 **Georgios N. Vassilakis**, Jacqueline E. McCleary, Maya Amit, Sayan Saha.  
-2025, Journal of Open Source Software (in preparation for resubmission).  
+2025, Journal of Open Source Software (submitted).  
 
 ### Significant contributing author
 *Lensing in the Blue. II. Estimating the Sensitivity of Stratospheric Balloons to Weak Gravitational Lensing.*  
@@ -42,7 +42,7 @@ Philippe Voyer, **et al.**
 2024, Proc. SPIE 13094, Ground-based and Airborne Telescopes X, 130944Z.
 
 ## Personal
-🏋️I'm a nationally qualified Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintain the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
+🏋️ I'm a nationally qualified Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintain the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
 
 🎸 I've played both electric and acoustic (Flamenco) guitar for nearly 10 years!
 

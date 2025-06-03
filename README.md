@@ -1,19 +1,20 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/wave.gif" width="30px">
 
-My name is Georgios (George) Vassilakis, and I'm a fourth-year undergraduate at Northeastern University. I'm studying Applied Physics with a minor in Data Science and a concentration in Astrophysics. 
+My name is Georgios (George) Vassilakis, and I'm an incoming PhD Student researching AI + Astronomical Imaging at the University of Cambridge. I'm also working at NASA's Jet Propulsion Laboratory this summer, simulating strong lensing for the upcoming Habitable Worlds Observatory. Previously, I was at Northeastern University in Boston, studying Applied Physics with a minor in Data Science and a concentration in Astrophysics. 
 
 ## 🔭 I love space and machine learning! 
 ### My current and past projects include:
 1. Lead developer of the [SMPy](https://github.com/GeorgeVassilakis/SMPy) project, which provides an accessible and modular Python toolkit for mapping dark matter distributions using weak gravitational lensing data from astronomical surveys.
 2. Contributing developer to the [superbit-lensing](https://github.com/superbit-collaboration/superbit-lensing) analysis pipeline, which aims to measure galaxy shapes from NASA's SuperBIT Telescope observations.
 3. Developed Scientific Machine Learning pipelines (coupled [Deep Operator Networks](https://www.nature.com/articles/s42256-021-00302-5)) to model the governing physics for solid-state batteries, as part of the [Juner Zhu Group](https://www.zhujuner.com/).
+4. For an astronomical data mining directed study, I created EMOS, which is an exomoon light curve simulator. It can be found [here](https://georgevassilakis.github.io/EMOS/).
 
 ## Publications | <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
 
 ### First-author
 *Shear Mapping in Python (SMPy): Modular, Extensible, and Accessible Dark Matter Mapping.*  
 **Georgios N. Vassilakis**, Jacqueline E. McCleary, Maya Amit, Sayan Saha.  
-2025, Journal of Open Source Software (submitted).  
+2025, Journal of Open Source Software (submitted, pending review).  
 
 ### Significant contributing author
 *Lensing in the Blue. II. Estimating the Sensitivity of Stratospheric Balloons to Weak Gravitational Lensing.*  

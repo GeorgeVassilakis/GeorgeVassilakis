@@ -45,7 +45,7 @@ Philippe Voyer, **et al.**
 ## Personal
 🏋️ I'm a nationally qualified Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintain the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
 
-🎸 I've played both electric and acoustic (Flamenco) guitar for nearly 10 years!
+🎸 I've played both electric and acoustic (Flamenco) guitar for over 8 years!
 
 
 

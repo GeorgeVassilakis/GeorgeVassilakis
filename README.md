@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/wave.gif" width="30px">
 
-My name is Georgios (George) Vassilakis, and I'm an incoming PhD Student researching AI + Astronomical Imaging at the University of Cambridge (DAMTP & IoA). I'm also working at NASA's Jet Propulsion Laboratory this summer, simulating strong lensing for the upcoming Habitable Worlds Observatory. Previously, I was at Northeastern University in Boston, studying Applied Physics with a minor in Data Science and a concentration in Astrophysics. 
+My name is Georgios (George) Vassilakis, and I'm an intern at NASA's Jet Propulsion Laboratory this summer, simulating dark matter subhalo detection with strong lensing for the upcoming Habitable Worlds Observatory. Previously, I was at Northeastern University in Boston, studying Applied Physics with a minor in Data Science and a concentration in Astrophysics. 
 
 ## 🔭 I love space and machine learning! 
 ### My current and past projects include:

@@ -13,7 +13,7 @@ My name is Georgios (George) Vassilakis, and I'm a PhD Student in the Department
 ## Publications | <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
 
 ## Personal
-🏋️ I'm a nationally qualified Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintain the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
+🏋️ I was a nationally ranked Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintained the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
 
 🎸 I've played both electric and acoustic (Flamenco) guitar for over 8 years!
 

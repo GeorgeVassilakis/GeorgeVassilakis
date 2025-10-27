@@ -17,6 +17,8 @@ My name is Georgios (George) Vassilakis, and I'm a PhD Student in the Department
 
 🎸 I've played both electric and acoustic (Flamenco) guitar for over 8 years!
 
+🎬 Check out my [watch list website](https://georgevassilakis.github.io/watch-list/) to see what movies I watch, along with their rankings!
+
 
 
 

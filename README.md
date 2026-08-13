@@ -4,35 +4,21 @@ My name is Georgios (George) Vassilakis, and I'm a PhD Student at the University
 
 ## 🔭 I love space and machine learning! 
 ### My current and past projects include:
-1. Lead developer of the [SMPy](https://github.com/GeorgeVassilakis/SMPy) project, which provides an accessible and modular Python toolkit for mapping dark matter distributions using weak gravitational lensing data from astronomical surveys.
-2. Lead developer of the [HWO-SLAPS](https://github.com/nasa-jpl/hwo-slaps) pipeline, which serves as a hub for simulating and detecting low mass dark matter subhalos in strong gravitational lensing systems for the upcoming Habitable Worlds Observatory. This work was performed at NASA's Jet Propulsion Laboratory.
-3. Contributing developer to the [superbit-lensing](https://github.com/superbit-collaboration/superbit-lensing) analysis pipeline, which aims to measure galaxy shapes from NASA's SuperBIT Telescope observations.
+0. Currently developing TheCube: a continuous spatio-spectral field of the multi-survey sky. The repo is still in stealth, but expect a paper on ArXiv in September!
+1. Lead developer of the NASA JPL [HWO-SLAPS](https://github.com/nasa-jpl/hwo-slaps) pipeline, which serves as a hub for simulating and detecting low-mass dark matter subhalos in strong gravitational lensing systems for the upcoming Habitable Worlds Observatory. This work will be an upcoming paper in the RAS Techniques & Instruments (RASTI) journal, and will be on ArXiv in early September. Stay tuned!
+2. Lead developer of the [SMPy](https://github.com/GeorgeVassilakis/SMPy) project, which provides an accessible and modular Python toolkit for mapping dark matter distributions using weak gravitational lensing data from astronomical surveys. Journal of Open Source Software (JOSS) paper has been accepted and is currently in corrections, and will appear on ArXiv soon. Stay tuned!
+3. Contributing developer to the [superbit-lensing](https://github.com/superbit-collaboration/superbit-lensing) analysis pipeline, which aims to measure galaxy shapes from NASA's SuperBIT Telescope observations. This pipeline produced the simulations for [Lensing in the Blue II](https://iopscience.iop.org/article/10.3847/1538-3881/ace7ca), and was used in scientific analysis for [Lensing in the Blue III](https://arxiv.org/abs/2603.18376). Lensing in the Blue IV will use SMPy to create mass maps of these galaxy clusters. Stay tuned!
 4. Developed Scientific Machine Learning pipelines (coupled [Deep Operator Networks](https://www.nature.com/articles/s42256-021-00302-5)) to model the governing physics for solid-state batteries, as part of the [Juner Zhu Group](https://www.zhujuner.com/).
-5. For an astronomical data mining directed study, I created EMOS, which is an exomoon light curve simulator. It can be found [here](https://georgevassilakis.github.io/EMOS/).
 
-## Publications | <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
+## For Publications, see my <img src="https://raw.githubusercontent.com/GeorgeVassilakis/GeorgeVassilakis/main/Google_Scholar_logo.svg" width="22px"> [Google Scholar](https://scholar.google.com/citations?user=KYnQtF4AAAAJ&hl=en) 
 
 ## Personal
+🚣 I row for Churchill College at the University of Cambridge!
+
 🏋️ I was a nationally ranked Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintained the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
 
-🎸 I've played both electric and acoustic (Flamenco) guitar for over 8 years!
+🎸 I've played both electric and acoustic (Flamenco) guitar for over 9 years!
 
 🎬 Check out my [watch list website](https://georgevassilakis.github.io/watch-list/) to see what movies I watch, along with their rankings!
 
 
-
-
-<!--
-**GeorgeVassilakis/GeorgeVassilakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

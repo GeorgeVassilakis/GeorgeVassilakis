@@ -15,9 +15,9 @@ My name is Georgios (George) Vassilakis, and I'm a PhD Student at the University
 ## Personal
 🚣 I row for Churchill College at the University of Cambridge!
 
-🏋️ I was a nationally ranked Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)! I built and maintained the site for our team's weekly programming. You can find the link [here](https://georgevassilakis.github.io/NUWeightlifting-Program/)!
+🏋️ I was a nationally ranked Olympic-style weightlifter for [Northeastern University's Olympic Weightlifting Team](https://www.instagram.com/nuweightlifting/)!
 
-🎸 I've played both electric and acoustic (Flamenco) guitar for over 9 years!
+🎸 I've played both electric and acoustic (Flamenco) guitar for over 10 years!
 
 🎬 Check out my [watch list website](https://georgevassilakis.github.io/watch-list/) to see what movies I watch, along with their rankings!
 
